@@ -1,0 +1,18 @@
+{
+    "amap_key": "",
+    "input_points": [
+        "南京市",
+        "长春市"
+    ],
+    "search_params": {
+        "tolerance": 10,
+        "radius": 100,
+        "grid_size": 200
+    },
+    "map_bounds": {
+        "min_lat": 18,
+        "max_lat": 53,
+        "min_lon": 73,
+        "max_lon": 135
+    }
+}
