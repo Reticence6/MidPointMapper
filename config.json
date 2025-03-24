@@ -1,8 +1,8 @@
 {
-    "amap_key": "",
+    "amap_key": "Your Amap Key",
     "input_points": [
         "南京市",
-        "长春市"
+        "杭州市"
     ],
     "search_params": {
         "tolerance": 10,
