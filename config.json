@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "amap_key": "Your Amap Key",
+=======
+    "amap_key": "Your API-KEY",
+>>>>>>> 69a1d71bc46072a37c5af2b29a8767ffd610767d
     "input_points": [
         "南京市",
         "杭州市"
